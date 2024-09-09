@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|c:\\users\\berkk\\desktop\\basarsoftstaj\\basarsoftstaj.server\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|solutionrelative:basarsoftstaj.server\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|c:\\users\\berkk\\desktop\\basarsoftstaj\\basarsoftstaj.server\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|solutionrelative:basarsoftstaj.server\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|c:\\users\\berkk\\desktop\\basarsoftstaj\\basarsoftstaj.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|solutionrelative:basarsoftstaj.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|c:\\users\\berkk\\desktop\\basarsoftstaj\\basarsoftstaj.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|solutionrelative:basarsoftstaj.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|c:\\users\\berkk\\desktop\\basarsoftstaj\\basarsoftstaj.server\\postgresqlpointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|solutionrelative:basarsoftstaj.server\\postgresqlpointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|c:\\users\\berkk\\desktop\\basarsoftstaj\\basarsoftstaj.server\\ipointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|solutionrelative:basarsoftstaj.server\\ipointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|c:\\users\\berkk\\desktop\\basarsoftstaj\\basarsoftstaj.server\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|solutionrelative:basarsoftstaj.server\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|c:\\users\\berkk\\desktop\\basarsoftstaj\\basarsoftstaj.server\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44541BB4-3079-4FF1-90A6-822BCBEB78EB}|BasarsoftStaj.Server\\BasarsoftStaj.Server.csproj|solutionrelative:basarsoftstaj.server\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\Point.cs",
+              "RelativeDocumentMoniker": "BasarsoftStaj.Server\\Point.cs",
+              "ToolTip": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\Point.cs",
+              "RelativeToolTip": "BasarsoftStaj.Server\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:02:58.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\Program.cs",
+              "RelativeDocumentMoniker": "BasarsoftStaj.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\Program.cs",
+              "RelativeToolTip": "BasarsoftStaj.Server\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:06:22.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "BasarsoftStaj.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\appsettings.json",
+              "RelativeToolTip": "BasarsoftStaj.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T10:04:33.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\GenericService.cs",
+              "RelativeDocumentMoniker": "BasarsoftStaj.Server\\GenericService.cs",
+              "ToolTip": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\GenericService.cs",
+              "RelativeToolTip": "BasarsoftStaj.Server\\GenericService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:08:04.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostgreSqlPointService.cs",
+              "DocumentMoniker": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\PostgreSqlPointService.cs",
+              "RelativeDocumentMoniker": "BasarsoftStaj.Server\\PostgreSqlPointService.cs",
+              "ToolTip": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\PostgreSqlPointService.cs",
+              "RelativeToolTip": "BasarsoftStaj.Server\\PostgreSqlPointService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:27:06.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPointService.cs",
+              "DocumentMoniker": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\IPointService.cs",
+              "RelativeDocumentMoniker": "BasarsoftStaj.Server\\IPointService.cs",
+              "ToolTip": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\IPointService.cs",
+              "RelativeToolTip": "BasarsoftStaj.Server\\IPointService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:26:57.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\Response.cs",
+              "RelativeDocumentMoniker": "BasarsoftStaj.Server\\Response.cs",
+              "ToolTip": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\Response.cs",
+              "RelativeToolTip": "BasarsoftStaj.Server\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:03:23.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PointController.cs",
+              "DocumentMoniker": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\Controllers\\PointController.cs",
+              "RelativeDocumentMoniker": "BasarsoftStaj.Server\\Controllers\\PointController.cs",
+              "ToolTip": "C:\\Users\\berkk\\Desktop\\BasarsoftStaj\\BasarsoftStaj.Server\\Controllers\\PointController.cs",
+              "RelativeToolTip": "BasarsoftStaj.Server\\Controllers\\PointController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:04:06.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

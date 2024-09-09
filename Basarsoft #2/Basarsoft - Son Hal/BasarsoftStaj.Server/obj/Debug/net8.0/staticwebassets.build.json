@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "JXVpHd1R5n4E7OBhcVKc2D2uPNFHoIjswyJlnJvO3YU=",
+  "Source": "BasarsoftStaj.Server",
+  "BasePath": "_content/BasarsoftStaj.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/home/berk/Masaüstü/Basarsoft - Son Hal/basarsoftstaj.client/basarsoftstaj.client.esproj",
+      "Version": 2,
+      "Source": "basarsoftstaj.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

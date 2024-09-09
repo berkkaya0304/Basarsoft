@@ -1,0 +1,201 @@
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.csproj.AssemblyReference.cache
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/spa.proxy.json
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.AssemblyInfoInputs.cache
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.AssemblyInfo.cs
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.csproj.CoreCompileInputs.cache
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/spa.proxy.json
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/appsettings.json
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.exe
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.deps.json
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.runtimeconfig.json
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.pdb
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.AspNetCore.SpaProxy.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Npgsql.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.BasarsoftStaj.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.build.BasarsoftStaj.Server.props
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BasarsoftStaj.Server.props
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BasarsoftStaj.Server.props
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/scopedcss/bundle/BasarsoftStaj.Server.styles.css
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/Basarsof.17B46C33.Up2Date
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/refint/BasarsoftStaj.Server.dll
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.pdb
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.genruntimeconfig.cache
+C:/Users/berkk/Desktop/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/ref/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/appsettings.Development.json
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/appsettings.json
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/spa.proxy.json
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.deps.json
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.runtimeconfig.json
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.pdb
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.AspNetCore.SpaProxy.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Npgsql.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.csproj.AssemblyReference.cache
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/spa.proxy.json
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.AssemblyInfoInputs.cache
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.AssemblyInfo.cs
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.csproj.CoreCompileInputs.cache
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.MvcApplicationPartsAssemblyInfo.cs
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.MvcApplicationPartsAssemblyInfo.cache
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.build.json
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.development.json
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.BasarsoftStaj.Server.Microsoft.AspNetCore.StaticWebAssets.props
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.build.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.pack.json
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/scopedcss/bundle/BasarsoftStaj.Server.styles.css
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/Basarsof.17B46C33.Up2Date
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/refint/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.pdb
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.genruntimeconfig.cache
+/home/berk/Masaüstü/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/ref/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/appsettings.Development.json
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/appsettings.json
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/spa.proxy.json
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.deps.json
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.runtimeconfig.json
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.pdb
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.AspNetCore.SpaProxy.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Npgsql.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.csproj.AssemblyReference.cache
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/spa.proxy.json
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.AssemblyInfoInputs.cache
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.AssemblyInfo.cs
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.csproj.CoreCompileInputs.cache
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.MvcApplicationPartsAssemblyInfo.cs
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.MvcApplicationPartsAssemblyInfo.cache
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.sourcelink.json
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.build.json
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.development.json
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.BasarsoftStaj.Server.Microsoft.AspNetCore.StaticWebAssets.props
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.build.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.pack.json
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/scopedcss/bundle/BasarsoftStaj.Server.styles.css
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/Basarsof.17B46C33.Up2Date
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/refint/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.pdb
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.genruntimeconfig.cache
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/BasarsoftStaj.Server/obj/Debug/net8.0/ref/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/appsettings.Development.json
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/appsettings.json
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/spa.proxy.json
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.deps.json
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.runtimeconfig.json
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.pdb
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.AspNetCore.SpaProxy.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/Npgsql.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.csproj.AssemblyReference.cache
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/spa.proxy.json
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.AssemblyInfoInputs.cache
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.AssemblyInfo.cs
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.csproj.CoreCompileInputs.cache
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.MvcApplicationPartsAssemblyInfo.cs
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.MvcApplicationPartsAssemblyInfo.cache
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.build.json
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.development.json
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.BasarsoftStaj.Server.Microsoft.AspNetCore.StaticWebAssets.props
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.build.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.pack.json
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/scopedcss/bundle/BasarsoftStaj.Server.styles.css
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/Basarsof.17B46C33.Up2Date
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/refint/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.pdb
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.genruntimeconfig.cache
+/home/berk/Masaüstü/Basarsoft - Son Hal/BasarsoftStaj.Server/obj/Debug/net8.0/ref/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/appsettings.Development.json
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/appsettings.json
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/spa.proxy.json
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.deps.json
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.runtimeconfig.json
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/BasarsoftStaj.Server.pdb
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.AspNetCore.SpaProxy.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/Npgsql.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.csproj.AssemblyReference.cache
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/spa.proxy.json
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.AssemblyInfoInputs.cache
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.AssemblyInfo.cs
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.csproj.CoreCompileInputs.cache
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.MvcApplicationPartsAssemblyInfo.cs
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.MvcApplicationPartsAssemblyInfo.cache
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.build.json
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.development.json
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.BasarsoftStaj.Server.Microsoft.AspNetCore.StaticWebAssets.props
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.build.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BasarsoftStaj.Server.props
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/staticwebassets.pack.json
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/scopedcss/bundle/BasarsoftStaj.Server.styles.css
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/Basarsof.17B46C33.Up2Date
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/refint/BasarsoftStaj.Server.dll
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.pdb
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/BasarsoftStaj.Server.genruntimeconfig.cache
+/home/berk/Masaüstü/Basarsoft #3/BasarsoftBackend/BasarsoftStaj.Server/obj/Debug/net8.0/ref/BasarsoftStaj.Server.dll

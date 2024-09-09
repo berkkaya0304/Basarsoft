@@ -1,0 +1,5 @@
+sudo usermod -aG docker $USER
+newgrp docker
+docker start d80ba19976882b1cdece8832536cfaa34177e03450ffbd071deb559621ced2b2
+docker stop d80ba19976882b1cdece8832536cfaa34177e03450ffbd071deb559621ced2b2
+

@@ -1,0 +1,3 @@
+C:/Users/berkk/Desktop/BasarsoftStaj/basarsoftstaj.client/obj/Debug/basarsoftstaj.client.esproj.CoreCompileInputs.cache
+/home/berk/Masaüstü/BasarsoftStaj/basarsoftstaj.client/obj/Debug/basarsoftstaj.client.esproj.CoreCompileInputs.cache
+/home/berk/Masaüstü/Basarsoft/BasarsoftStaj/basarsoftstaj.client/obj/Debug/basarsoftstaj.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenLayers Harita</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/ol@latest/dist/ol.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jspanel4@4.12.0/dist/jspanel.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jspanel4@4.12.0/dist/jspanel.min.js"></script>
+</head>
+<body>
+    <nav>
+        </div>
+        <button style="margin-right: 30px;" id="button1">Point Ekle!</button>
+        <button style="margin-left: 30px;" id="button2">Tabloyu Göster!</button>
+    </nav>
+    <div id="map" class="map"></div>
+<div id="popup" class="ol-popup">
+    <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+    <div id="popup-content"></div>
+</div>
+    <script src="script.js"></script>
+    <script>
+    window.addEventListener('message', function(event) {
+    if (event.data === 'pointDeleted') {
+        location.reload(); // Sayfayı yenile
+    }
+    });
+    </script>
+  </div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map Screen with Buttons and WKT Tool</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/ol@latest/dist/ol.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ol@latest/dist/ol-wkt.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jspanel4@4.12.0/dist/jspanel.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jspanel4@4.12.0/dist/jspanel.min.js"></script>
+</head>
+<body>
+    <nav>
+        <div class="header">
+            <button  id="button1">Draw Shape</button>
+            <button id="button2">All Shapes</button>
+        </div>
+    </nav>
+    <div id="map" class="map"></div>
+
+
+    <!-- The Modal -->
+    <div id="wktModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Draw Shape</h2>
+            <div id="draw-controls" class="draw-controls">
+                <button id="draw-point">Draw Point</button>
+                <button id="draw-line">Draw LineString</button>
+                <button id="draw-polygon">Draw Polygon</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
