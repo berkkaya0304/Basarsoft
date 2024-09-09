@@ -25,7 +25,7 @@ Bu proje, Başarsoft stajı süresince geliştirilen bir **web uygulaması**dır
 ### Adımlar
 1. **Depoyu klonlayın**:
     ```bash
-    git clone https://github.com/kullanici/proje-adi.git
+    git clone https://github.com/berkkaya0304/basarsoft.git
     ```
 
 2. **Backend'i başlatın**:
