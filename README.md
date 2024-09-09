@@ -1,4 +1,4 @@
-# Proje Adı
+# Basarsoft Staj Projesi
 
 Bu proje, Başarsoft stajı süresince geliştirilen bir **web uygulaması**dır. Projede hem **frontend** hem de **backend** geliştirme yapılmıştır. Backend geliştirmesi **C#** kullanılarak yapılmış olup, frontend geliştirmesi **HTML**, **CSS**, **JavaScript** ve **ReactJS** ile gerçekleştirilmiştir.
 
