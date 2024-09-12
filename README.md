@@ -2,8 +2,8 @@
 
 Bu proje, Başarsoft stajı süresince geliştirilen bir **web uygulaması**dır. Projede hem **frontend** hem de **backend** geliştirme yapılmıştır. Backend geliştirmesi **C#** kullanılarak yapılmış olup, frontend geliştirmesi **HTML**, **CSS**, **JavaScript** ve **ReactJS** ile gerçekleştirilmiştir.
 
-[Basarsoft #1 Proje Videosunu İzlemek için Tıkla!](https://youtu.be/3Np1Q8gO2I8)
-[Basarsoft #2 Proje Videosunu İzlemek için Tıkla!](https://youtu.be/JHTp6F82n_E)
+- [Basarsoft #1 Proje Videosunu İzlemek için Tıkla!](https://youtu.be/3Np1Q8gO2I8)
+- [Basarsoft #2 Proje Videosunu İzlemek için Tıkla!](https://youtu.be/JHTp6F82n_E)
 
 ## İçindekiler
 - [Özellikler](#özellikler)
